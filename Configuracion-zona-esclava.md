@@ -9,7 +9,7 @@ En la configuracion de red del servidor primario añadimos en el DNS predefinido
 
 A demas, para configurar el servidor secundario o esclavo primero debemos hacer unos cambios en el servidor primario.
 
-1.Entramos en la zona maestra o principal de busqueda directa en nuestro servidor principal y enramos a "servidor de nombres"
+1.Entramos en la zona maestra o principal de busqueda directa en nuestro servidor principal y entramos a "servidor de nombres"
 una vez hay ponemos lo siguente.
 
 ![opciones.png](./imagenes/31.png)
