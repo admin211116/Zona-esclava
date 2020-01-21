@@ -25,7 +25,7 @@ despues le damos a crear.
 
 ![3.png](./imagenes/3.png)
 
-3.A continuacion entramos en "editar opciones de zona" y permitimos la tranferencia
+3.A continuación entramos en "editar opciones de zona" y permitimos la tranferencia
 a nuestro servidor secundrio poniendo la ip.
 
 ![61.png](./imagenes/61.png)
@@ -39,7 +39,7 @@ a nuestro servidor secundrio poniendo la ip.
 ![resulinver.png](./imagenes/resulinver.png)
 
 
-5.Despues, en "direccion inversa" ponemos la ip y el nombre del servidor secundario. (Si teneis puesto que se actualice, en las direcciones de la zona directa no sera nescasrio ponerlo ya que se pondra solo).
+5.Después, en "direccion inversa" ponemos la ip y el nombre del servidor secundario. (Si teneis puesto que se actualice, en las direcciones de la zona directa no sera nescasrio ponerlo ya que se pondra solo).
 ![11.png](./imagenes/11.png)
 
 6.Por ultimo tambien ablitaremos la tranferencia en la zona imbersa como lo hemos echo antes desde opciones de zona.
